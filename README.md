@@ -124,6 +124,7 @@ Incident Simulations: 25+ 🚨
 ## 🔗 Connect With Me
 
 EMAIL:-SADILIVASANTHOFFICIAL@GMAIL.COM
+
 INSTAGRAM_HANDLE:-VASUDE_._
 
 ---
@@ -151,7 +152,7 @@ I believe in:
 
 ---
 
-## 📈 Goals for 2024-2025
+## 📈 Goals for 2026-2027
 
 - ✅ Earn Security+ Certification
 - ✅ Complete 100+ CTF challenges
